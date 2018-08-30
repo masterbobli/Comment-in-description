@@ -1,0 +1,22 @@
+# 站点的基本信息
+site_name: CraftTweaker 简体中文文档
+site_author: Team CraftTweaker and any Contributors to the CrT Wiki GitHub repository
+
+repo_url: https://github.com/CFPAOrg/CraftTweaker-Documentation
+repo_name: '在 GitHub 上查看此 wiki'
+
+使用的几个额外组件:
+  - admonition
+  - smarty
+  - sane_lists
+
+theme_dir: 'mkdocs_windmill'
+
+copyright: CraftTweaker 简体中文文档，翻译自原作者文档。协议：MIT
+
+extra:
+  logo: 'assets/logo.png'
+  #article_nav_top: true
+  #artivle_nav_bottom: true
+  #history_buttons: false
+  version: 'CrT v4.1.10'
