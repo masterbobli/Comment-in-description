@@ -218,27 +218,26 @@
     - [x] CompatSkills
     - [x] 需求
       - [x] 需求
-      - [x] 需求类型
-        - [ ] Requirement Types: 
-           - [ ] Advancements
-           - [ ] Dimensions
-           - [ ] Dynamic Sword Skills
-           - [ ] GameStages
-           - [ ] Inverted Requirements
-           - [ ] Items
-           - [ ] Logic Operators: 
-             - [ ] IMPORTANT NOTICE
-             - [ ] AND-Gate
-             - [ ] NAND-Gate
-             - [ ] NOR-Gate
-             - [ ] NOT-Gate
-             - [ ] OR-Gate
-             - [ ] XNOR-Gate
-             - [ ] XOR-Gate
-           - [ ] Ore Dictionary
-           - [ ] Skills
-           - [ ] Tool Harvest-Level
-           - [ ] Traits
+      - [ ] 需求类型
+         - [ ] Advancements
+         - [ ] Dimensions
+         - [ ] Dynamic Sword Skills
+         - [ ] GameStages
+         - [ ] Inverted Requirements
+         - [ ] Items
+         - [ ] Logic Operators: 
+           - [ ] IMPORTANT NOTICE
+           - [ ] AND-Gate
+           - [ ] NAND-Gate
+           - [ ] NOR-Gate
+           - [ ] NOT-Gate
+           - [ ] OR-Gate
+           - [ ] XNOR-Gate
+           - [ ] XOR-Gate
+         - [ ] Ore Dictionary
+         - [ ] Skills
+         - [ ] Tool Harvest-Level
+         - [ ] Traits
       - [x] 技能和属性
     - [ ] 支持
       - [ ] 饰品模组
